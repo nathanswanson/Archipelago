@@ -1,0 +1,52 @@
+{
+  "items": [
+    {
+      "label": "BADGE_1",
+      "location_type": "progression",
+      "tags": ["badge"],
+      "id": 1
+    },
+    {
+      "label": "BADGE_2",
+      "location_type": "progression",
+      "tags": ["badge"],
+      "id": 2
+    },
+    {
+      "label": "BADGE_3",
+      "location_type": "progression",
+      "tags": ["badge"],
+      "id": 3
+    },
+    {
+      "label": "BADGE_4",
+      "location_type": "progression",
+      "tags": ["badge"],
+      "id": 4
+    },
+    {
+      "label": "BADGE_5",
+      "location_type": "progression",
+      "tags": ["badge"],
+      "id": 5
+    },
+    {
+      "label": "BADGE_6",
+      "location_type": "progression",
+      "tags": ["badge"],
+      "id": 6
+    },
+    {
+      "label": "BADGE_7",
+      "location_type": "progression",
+      "tags": ["badge"],
+      "id": 7
+    },
+    {
+      "label": "BADGE_8",
+      "location_type": "progression",
+      "tags": ["badge"],
+      "id": 8
+    }
+  ]
+}

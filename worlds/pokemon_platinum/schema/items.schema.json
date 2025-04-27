@@ -1,0 +1,33 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema",
+  "title": "Pokémon Platinum Items",
+  "description": "A collection of items from Pokémon Platinum.",
+    "type": "object",
+    "properties": {
+      "items": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "label": {
+              "type": "string"
+            },
+            "location_type": {
+              "type": "string",
+              "enum": ["progression", "useful", "trap", "filler"]
+            },
+            "tags": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "id": {
+              "type": "integer",
+              "minimum": 0
+            }
+          }
+        }
+      }
+    }
+}
